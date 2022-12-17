@@ -1,0 +1,10 @@
+body {
+    background-image: linear-gradient( 95.2deg, rgb(247, 233, 110) 26.8%, rgb(187, 248, 146) 64% );
+}
+#flag1-body, #flag2-body, #flag3-body {
+    background-color: #615f5d !important;
+}
+#flag1, #flag2, #flag3 {
+    
+    height: 10rem;
+}
